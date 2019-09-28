@@ -1,4 +1,4 @@
-# SFND_2D_Feature_Tracking
-2D Feature Tracking
+# Machine Learning Regression Algotithm to Predict I C Engine Friction
 
-This is one of the project from Udacity's Sensor Fusion Nano Degree program. The main goal of project is to create collision avoidance system with help of mono camera and Lidar sensor.
+
+This algorithm predicts I C engine friction in terms of friction torue based on input data such as engine speed, oil temperature, coolant temperature and other data. 
